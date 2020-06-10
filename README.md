@@ -49,12 +49,17 @@ iii) transcript.json - records for transactions, offers received, offers viewed,
 ## Results<a name="result"></a>
 
 Naive predictor accuracy: 0.473
+
 Naive predictor f1-score: 0.642
 
+
 LogisticRegression model accuracy: 0.699
+
 LogisticRegression model f1-score: 0.696
 
+
 RandomForestClassifier model accuracy: 0.848
+
 RandomForestClassifier model f1-score: 0.840
 
 ## Conclusion<a name="conclusion"></a> 
